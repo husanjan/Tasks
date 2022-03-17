@@ -35,7 +35,7 @@ $QueryBuilder->foo($bar);
 echo "<br>".$bar ;
 tasks3.php AND  Query.php 
 
-RESULT:1 3 !
+RESULT:1 3 1
 
  
 4) Using the MySQL table above, PHP, and HTML, write a code that outputs exactly the table below with
