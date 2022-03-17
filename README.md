@@ -1,6 +1,10 @@
 # Tasks
  
 1) Write a for loop in PHP that outputs all odd numbers from 1 to 100.
+
+
+
+
    $num=100;
    for($i=1; $i<=$num;$i++)
    {
@@ -20,6 +24,8 @@ toggles the img1.jpg on hover to img2.jpg. On mouse out, it should toggle back t
 3) What is the output of the below code in PHP?
 
 //3) What is the output of the below code in PHP?
+
+
 $bar = 0;
 $bar ++;
 echo "<br>".$bar;
@@ -29,7 +35,9 @@ $QueryBuilder->foo($bar);
 echo "<br>".$bar ;
 tasks3.php AND  Query.php 
 
-//1 3 1
+RESULT:1 3 !
+
+ 
 4) Using the MySQL table above, PHP, and HTML, write a code that outputs exactly the table below with
 the borders.
 Note 1:Assume that PHP is already connected to the MySQL database.
